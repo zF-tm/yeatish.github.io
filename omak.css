@@ -1,0 +1,10 @@
+h1  {
+    background-color: green;
+    color: black;
+    font-family: fantasy;
+    font-size: 55px;
+}
+#pnum1  {
+    direction: rtl;
+    font-size: 57px;
+}
